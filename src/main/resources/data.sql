@@ -1,0 +1,1 @@
+INSERT INTO purchase (id,date,prod_code,quantity,price,total) VALUES (10,'2022-04-16 17:29:29','p003',50,125,6250);
